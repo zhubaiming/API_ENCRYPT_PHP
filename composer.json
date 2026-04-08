@@ -1,0 +1,17 @@
+{
+    "name": "hongyi/api-secret",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Hongyi\\ApiSecret\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zhubaiming",
+            "email": "26537085+zhubaiming@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
