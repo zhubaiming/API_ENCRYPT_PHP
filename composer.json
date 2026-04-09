@@ -1,5 +1,5 @@
 {
-    "name": "hongyi/api-secret",
+    "name": "hongyi/api-encrypt",
     "description": "加密集合，api 接口加解密",
     "type": "library",
     "minimum-stability": "stable",
