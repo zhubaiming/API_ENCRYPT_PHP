@@ -1,17 +1,20 @@
 {
     "name": "hongyi/api-secret",
+    "description": "加密集合，api 接口加解密",
     "type": "library",
-    "autoload": {
-        "psr-4": {
-            "Hongyi\\ApiEncrypt\\": "src/"
-        }
-    },
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "zhubaiming",
             "email": "26537085+zhubaiming@users.noreply.github.com"
         }
     ],
-    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Hongyi\\ApiEncrypt\\": "src/"
+        }
+    },
     "require": {}
 }
