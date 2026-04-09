@@ -1,6 +1,6 @@
 <?php
 
-namespace Hongyi\ApiSecret\ApiEncrypt;
+namespace Hongyi\ApiEncrypt\Services;
 
 /**
  * HMAC 签名工具类（防篡改，支持 GET/POST 请求）

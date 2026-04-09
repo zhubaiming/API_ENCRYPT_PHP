@@ -1,6 +1,6 @@
 <?php
 
-namespace Hongyi\ApiSecret\ApiEncrypt;
+namespace Hongyi\ApiEncrypt\Services;
 
 class RsaEncrypt
 {

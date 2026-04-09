@@ -1,6 +1,6 @@
 <?php
 
-namespace Hongyi\ApiSecret\ApiEncrypt;
+namespace Hongyi\ApiEncrypt\Services;
 
 /**
  * AES 加密工具类（AES-256-CBC，生产环境首选）
